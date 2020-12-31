@@ -1,3 +1,3 @@
-# About
+# David Finster
 
-Read more [about this repo](https://dfinr.github.io/dfinr/).
+Learn more more [about this my projects](https://dfinr.github.io/).
