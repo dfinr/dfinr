@@ -1,3 +1,4 @@
 # David Finster
 
-Learn more more [about my projects](https://dfinr.com/).
+* Website: <https://dfinr.com/>
+* Twitter: <https://twitter.com/dfinr>
