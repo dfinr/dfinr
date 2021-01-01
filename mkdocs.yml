@@ -12,7 +12,7 @@ use_directory_urls: true
 dev_addr: 127.0.0.1:8000
 theme:
   name: material
-  favicon: images/favicon.ico
+  favicon: images/808080-512x512.png
   icon:
     logo: material/comment-account-outline
   plugins:
