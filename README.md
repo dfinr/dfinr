@@ -1,6 +1,6 @@
-# Introduction
+# David Finster 
 
-David Finster is a technical editor at [Vultr.com](https://www.vultr.com).
+Technical editor at [Vultr.com](https://www.vultr.com).
 
 * [GitHub](https://github.com/dfinr)
 * [Stack Overflow](https://stackoverflow.com/users/13642710/dfinr?tab=profile)
