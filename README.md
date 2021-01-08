@@ -1,5 +1,6 @@
 Technical editor at [Vultr.com](https://www.vultr.com).
 
+* [dfinr.com](https://dfinr.com)
 * [GitHub](https://github.com/dfinr)
 * [Stack Overflow](https://stackoverflow.com/users/13642710/dfinr?tab=profile)
 * [Twitter](https://twitter.com/dfinr)
