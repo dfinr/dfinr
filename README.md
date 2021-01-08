@@ -1,5 +1,3 @@
-# David Finster 
-
 Technical editor at [Vultr.com](https://www.vultr.com).
 
 * [GitHub](https://github.com/dfinr)
