@@ -1,1 +1,1 @@
-David Finster is the Developer Advocate and Technical Editor at [Vultr.com](https://www.vultr.com).  
+David Finster is a Technical Editor and Developer Advocate at [Vultr.com](https://www.vultr.com).  
